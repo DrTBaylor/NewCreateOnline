@@ -1,7 +1,7 @@
 
 
 
-allowed{1}='EGR 1301 Intro 0 Pre1'
+allowed{1}='EGR 1301 Intro 1 Pre1' %Added a comment
 allowed{2}='EGR 1302 Intro 2 Pre2'
 allowed{3}='ELC 2320 Circuits';
 allowed{4}='ELC 4351 DSP';
